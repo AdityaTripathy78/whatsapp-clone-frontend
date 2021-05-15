@@ -1,4 +1,18 @@
-# Getting Started with Create React App
+# Build a WhatsApp Clone with React JS, FireBase and Google Authentication
+## Tech Stack
+
+`React js`
+`Firebase Firestore Realtime DB`
+`Material UI`
+`React Router`
+`React Context API`
+`Redux`
+`Google Authentication`
+
+# Deployed App
+https://whatsapp-mern-de00b.web.app/
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
